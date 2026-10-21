@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si utilizas este apunte, sus diagramas o el código complementario, por favor cítalo con estos datos:"
+authors:
+  - family-names: "Chacón Mansilla"
+    given-names: "Cristian Antonio"
+title: "Modelado dinámico y estrategias de sintonización para convertidores boost"
+version: 1.0.0
+date-released: 2026-10-21
+license: CC-BY-4.0
+url: "https://github.com/tu-usuario/tu-repositorio"
